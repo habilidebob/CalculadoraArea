@@ -26,7 +26,7 @@ namespace CalculadoraArea
             // Mostrar o resultado na txbResultado:
             txbResultado.Text = (b * a) / 2 + "";
 
-            // github.com
+            // Isso é tudo pessoal.
         }
     }
 }
